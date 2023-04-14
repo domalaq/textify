@@ -1,6 +1,6 @@
 # Textify
 
-Browser a website without any media. Only text.
+Browse a website without any media. Only text.
 
 ## Example
 
