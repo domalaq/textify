@@ -1,19 +1,9 @@
-# Template: worker-typescript
+# Textify
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/worker-typescript)
+Browser a website without any media. Only text.
 
-A batteries included template for kick starting a TypeScript Cloudflare worker project.
+## Example
 
-## Setup
-
-To create a `my-project` directory using this template, run:
-
-```sh
-$ npm init cloudflare my-project worker-typescript
-# or
-$ yarn create cloudflare my-project worker-typescript
-# or
-$ pnpm create cloudflare my-project worker-typescript
 ```
-
-> **Note:** Each command invokes [`create-cloudflare`](https://www.npmjs.com/package/create-cloudflare) for project creation.
+https://textify.domalak2233.workers.dev/?base=https://en.wikipedia.org
+```
